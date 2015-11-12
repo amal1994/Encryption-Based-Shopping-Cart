@@ -1,0 +1,25 @@
+body{
+			background: url(../img/bg.jpg) no-repeat;
+		}
+		#container{
+			width: 20%;
+			text-align: center;
+			padding: 40px;
+			margin: 0 auto;
+		}
+
+		
+
+#table{
+	border: 1px solid blue;
+	background: #fff;
+	padding: 10px;
+}
+#table td{
+	padding: 10px;
+}
+#table tr:nth-child(1){
+	background: blue;
+	color: #fff;
+	padding: 10px;
+}
